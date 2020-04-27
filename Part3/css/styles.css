@@ -1,0 +1,45 @@
+
+
+body {
+    width: 700px;
+}
+
+header {
+    height: 40px;
+    background-color: #e89b67;
+    color: white;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0px;
+    text-align:left;
+}
+
+section {
+    display:block;
+}
+
+article {
+    background-color: #eee;
+    display:block;
+    margin: 10px;
+    padding: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: small;
+}
+.resultBlock {
+    display: inline;
+}
+.display {
+    text-align: center;
+}
